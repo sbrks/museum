@@ -5,27 +5,42 @@
 		{
 			image: 'images/vangogh1.jpg',
 			artist: "Vincent Van Gogh",
-			title:"Francis of Assisi"
+			title:"Wheat Field with Cypresses",
+			year:"1889",
+			museum: "The Metropolitan Museum of Art",
+			moreInfo: "http://www.metmuseum.org/art/collection/search/436535"
 	    },
 	    {
 	    	image: 'images/vangogh2.jpg',
 	    	artist:"Vincent Van Gogh",
-	    	title:"Theodore Roosevelt"
+	    	title:"Shoes",
+			year:"1888",
+			museum: "The Metropolitan Museum of Art",
+			moreInfo: "http://www.metmuseum.org/art/collection/search/436533"
 	    },
 	    {
 	    	image: 'images/vangogh3.jpg',
 	    	artist:"Vincent Van Gogh",
-	    	title:"Confucius"
+	    	title:"Cypresses",
+			year:"1889",
+			museum: "The Metropolitan Museum of Art",
+			moreInfo: "http://www.metmuseum.org/toah/works-of-art/49.30/"
 	    },
 	    {
 	    	image: 'images/vangogh4.jpg',
 	    	artist:"Vincent Van Gogh",
-	    	title:"Thomas A. Edison"
+	    	title:"Self-Portrait with a Straw Hat",
+			year:"1887",
+			museum: "The Metropolitan Museum of Art",
+			moreInfo: "http://www.metmuseum.org/art/collection/search/436535"
 	    },
 	    {
 	    	image: 'images/vangogh5.jpg',
 	    	artist:"Vincent Van Gogh",
-	    	title:"Confucius"
+	    	title:"The Potato Peeler",
+			year:"1885",
+			museum: "The Metropolitan Museum of Art",
+			moreInfo: "http://www.metmuseum.org/art/collection/search/438722"
 	    }
 	];
 
