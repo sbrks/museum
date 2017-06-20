@@ -2,18 +2,25 @@ body {
 	background-image: url('http://images.metmuseum.org/CRDImages/ep/original/DT1567.jpg');
 }
 
-#imageContainer{
-	width:75%;
-	background: #fff;
-	padding:20px;
-	margin:30px auto;
-	text-align: center;
-    height:100px;
-    border-radius: 6px;
-    border: 2px solid green;
+.two-half column {
+  margin-top:25%; 
+  text-align:center;
+  color: #fff";
 }
 
-#buttonContainer{
-	width: 100%;
-	text-align: center;
+#imageContainer {
+   width:75%;
+   background: #fff;
+   padding:20px;
+   margin:30px auto;
+   text-align: center;
+   height:100px;
+   border-radius: 6px;
+   border: 2px solid green;
 }
+
+#buttonContainer {
+    width: 100%;
+    text-align: center;
+}
+
